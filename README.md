@@ -74,7 +74,7 @@ You can also deploy the same on **[HuggingFace Spaces](https://huggingface.co/sp
 ## Acknowledgements
 
 This project is highly influence by the Repository created by [Art Kreimer](https://github.com/kredar) and is dependent on the following libraries and tools:
-
+- Inspired and guided by Harikrishna Dev 
 - [Streamlit](https://streamlit.io/) for building the web application
 - [LangChain](https://langchain.com/) for integrating the language model and retrieval chain
 - [OpenAI API](https://openai.com/) for the language model
