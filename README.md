@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 2. Update the following files:
-   * Replace all instance of the name `Harikrishna Dev` or `Harry` with your name and nickname in the following files:
+   * Replace all instance of the name `Mohanish` or 'Moni' with your name and nickname in the following files:
      * `app.py`
      * ``templates/template.json``
    * Change the following in the `data` folder
